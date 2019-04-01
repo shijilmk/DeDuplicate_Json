@@ -13,4 +13,4 @@ Output results : output.json
 
 Library - json
 
-Command Line Jar file: deduplicatejson-jar-with-dependencies.jar
+Download the deduplicatejson-jar-with-dependencies.jar file and use it to run it through command line : java -jar deduplicatejson-jar-with-dependencies.jar
